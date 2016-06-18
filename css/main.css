@@ -17,25 +17,3 @@
 	color: #2d3c49;
 }
 
-.featured, a {
-	text-transform: none;
-}
-
-.featured {
-	color: #7d97ad;
-	padding-top: 1.5em;
-}
-
-a {
-	font-weight: 300;
-}
-
-.project-names {
-	font-weight: 400;
-	font-size: 36px;
-}
-
-.heading-2 {
-	font-weight: 300;
-
-}
